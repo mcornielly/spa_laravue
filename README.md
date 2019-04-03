@@ -44,3 +44,7 @@ Execute the command:
 Run the server:
 
 `$php artisan serve`
+
+---
+![alt tag](https://github.com/mcornielly/spa-facturacion/blob/master/img_git/index.png)
+![alt tag](https://github.com/mcornielly/spa-facturacion/blob/master/img_git/show.png)
