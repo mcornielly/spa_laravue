@@ -12,7 +12,6 @@ SPA Laravel 5.8 and Vue.js 2.5.x, implementation of components vue
 - Single Page Aplication 
 - Vue Components
 - Scroll Infinite
----
 
 ### Installation
 ---
