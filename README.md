@@ -49,7 +49,7 @@ Run the server:
 ![alt tag](https://github.com/mcornielly/spa_laravue/blob/master/spa_home.png)
 ![alt tag](https://github.com/mcornielly/spa_laravue/blob/master/spa_blog.png)
 
-#sources of information author:
--Rimorsoft
-https://www.youtube.com/watch?v=PdP9pItoWIc
+# Sources of information author:
+- Rimorsoft
+- https://www.youtube.com/watch?v=PdP9pItoWIc
 
